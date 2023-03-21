@@ -1,4 +1,4 @@
-# Realtime Bus Framework
+# Realtime Bus Board
 
 This project is a realtime bus framework based on React, designed to provide a customizable and extensible platform for displaying public transportation data.
 
