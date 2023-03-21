@@ -23,11 +23,13 @@ git clone https://github.com/Gavinin/Realtime-Bus-Framework.git
 cd Realtime-Bus-Framework/src
 npm install
 ```
-3. 运行项目
+3. 修改custom文件夹下的配置文件
+   详细方法请参考 [如何修改请求配置文件](./documents/how_to_custom_api_zh.md)
+4. 运行项目
 ```shell
 npm start
 ```
-4. 在浏览器中查看项目
+5. 在浏览器中查看项目
 
 在浏览器中打开`http://localhost:3000`即可查看实时公交框架。
 

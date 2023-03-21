@@ -29,11 +29,13 @@ git clone hhttps://github.com/Gavinin/Realtime-Bus-Framework.git
 cd Realtime-Bus-Framework/src
 npm install
 ```
-3. Run the project
+3. Change Config in custom folder
+   Please view  [How to custom config file](./documents/how_to_custom_api.md)
+4. Run the project
 ```shell
 npm start
 ```
-4. View the project in your browser
+5. View the project in your browser
 
 Open `http://localhost:3000` in your browser to view the realtime bus framework.
 

@@ -2,15 +2,6 @@ import qs from "qs";
 import React from "react";
 import IRemoteResponse from "./remote/IRemoteResponse";
 
-export const enum BUS_APIS {
-    BUS_STATUS = "http://your.server/service",
-    SERVER_MAP = "http://your.server/service",
-    SERVER_LINES = "http://your.server/service",
-    SERVER_VERSION = "http://your.server/service"
-
-}
-
-
 interface IConfig extends RequestInit {
     data?: any;
 }

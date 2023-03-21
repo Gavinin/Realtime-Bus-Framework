@@ -13,7 +13,7 @@ import React from "react";
 import ILineListInfo from "../entity/ILineListInfo";
 import IRemoteBusInfo, {toIRemoteBusInfo} from "./remote/IRemoteBusInfo";
 import IUserSelectedBusInfo from "../entity/IUserSelectedBusInfo";
-import http, {BUS_APIS} from "./RequestUtil";
+import http from "./RequestUtil";
 import IRemoteBusDetail, {toIBusDetail} from "./remote/IRemoteBusDetail";
 import ILineInfo from "../entity/ILineInfo";
 import HTTP_METHODS from "../common/HttpMethod";
@@ -22,6 +22,15 @@ import IStationInfo from "../entity/IStationInfo";
 import DIRECTION from "../common/DirectionsEnum";
 import IRemoteLineInfo from "./remote/IRemoteLineInfo";
 import IRemoteLineList from "./remote/IRemoteLineList";
+
+export const enum BUS_APIS {
+    BUS_STATUS = "http://your.server/service",
+    SERVER_MAP = "http://your.server/service",
+    SERVER_LINES = "http://your.server/service",
+    SERVER_VERSION = "http://your.server/service"
+
+}
+
 
 /**
  * This method is used to convert the value of the direction in the interface
