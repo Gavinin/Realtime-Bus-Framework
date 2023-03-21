@@ -1,0 +1,36 @@
+{
+  "common": {
+    "clean": "Clear",
+    "welcome": "Open Yantai Bus Web Version \uD83D\uDC4B",
+    "github": "GitHub Repository: ",
+    "remark": "If you like it, please give it a Star✨!!!",
+    "update": "New version has been updated, and the original selection list has been cleared"
+  },
+  "bus": {
+    "list": "Bus List",
+    "search": "Please enter a bus route",
+    "plant_number": "License Plate Number",
+    "upward": "Upward",
+    "downward": "Downward"
+  },
+  "station": {
+    "name": "Route Name",
+    "direction": "Direction"
+  },
+  "favourite": {
+    "name": "Favorites",
+    "add": "Add to Favorites",
+    "remove": "Remove from Favorites",
+    "empty": "No routes are added to Favorites"
+  },
+  "fresh_rate": {
+    "time": {
+      "two": "2 Seconds",
+      "five": "5 Seconds",
+      "eight": "8 Seconds"
+    }
+  },
+  "warn": {
+    "fresh_rate": "It will seriously generate heat and reduce battery life!!!"
+  }
+}

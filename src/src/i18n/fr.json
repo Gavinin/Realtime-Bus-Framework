@@ -1,0 +1,36 @@
+{
+  "common": {
+    "clean": "Effacer",
+    "welcome": "Ouvrir la version Web du bus de Yantai \uD83D\uDC4B",
+    "github": "Adresse GitHub du projet: ",
+    "remark": "Si vous aimez ce projet, n'hésitez pas à lui donner une étoile✨!!!",
+    "update": "Une nouvelle version a été mise à jour et la liste de sélection d'origine a été effacée"
+  },
+  "bus": {
+    "list": "Liste de Bus",
+    "search": "Veuillez entrer un numéro de ligne de bus",
+    "plant_number": "Numéro d'immatriculation",
+    "upward": "Montant",
+    "downward": "Descendant"
+  },
+  "station": {
+    "name": "Nom de la ligne",
+    "direction": "Direction"
+  },
+  "favourite": {
+    "name": "Favoris",
+    "add": "Ajouter aux favoris",
+    "remove": "Supprimer des favoris",
+    "empty": "Aucune ligne n'a été ajoutée aux favoris"
+  },
+  "fresh_rate": {
+    "time": {
+      "two": "2 Secondes",
+      "five": "5 Secondes",
+      "eight": "8 Secondes"
+    }
+  },
+  "warn": {
+    "fresh_rate": "Cela générera sérieusement de la chaleur et réduira la durée de vie de la batterie !!!"
+  }
+}

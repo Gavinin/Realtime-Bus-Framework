@@ -2,11 +2,19 @@
 
 This project is a realtime bus framework based on React, designed to provide a customizable and extensible platform for displaying public transportation data.
 
+<div style="font-size: 1.5rem;">
+  <a href="./README.md">English</a> | <a href="./README_ZH.md">中文</a>
+</div>
+
 ## Features
 
 - Realtime data: The framework uses public transportation data APIs to provide the latest realtime bus data.
 - Extensibility: The framework is easy to extend, allowing you to add new bus data sources or modify existing ones.
 - Customizability: You can customize the styles of bus stops and maps to meet your needs.
+
+## Example
+[Yantai Bus board](https://github.com/Gavinin/YantaiBus)
+
 ## Requirements
 - Node.js
 
@@ -18,7 +26,7 @@ git clone hhttps://github.com/Gavinin/Realtime-Bus-Framework.git
 ```
 2. Install dependencies
 ```shell
-cd Realtime-Bus-Framework
+cd Realtime-Bus-Framework/src
 npm install
 ```
 3. Run the project

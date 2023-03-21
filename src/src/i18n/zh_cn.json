@@ -1,0 +1,36 @@
+{
+  "common": {
+    "clean": "清除",
+    "welcome": "打开烟台公交网页版\uD83D\uDC4B",
+    "github": "本项目GitHub 地址: ",
+    "remark": "如果觉得还不错，希望你点个Star✨！！！",
+    "update": "新版本已更新，原有选择列表已清除"
+  },
+  "bus": {
+    "list": "公交列表",
+    "search": "请输入线路",
+    "plant_number": "车牌号",
+    "upward": "上行",
+    "downward": "下行"
+  },
+  "station": {
+    "name": "线路名",
+    "direction": "方向"
+  },
+  "favourite": {
+    "name": "收藏夹",
+    "add": "添加收藏",
+    "remove": "取消收藏",
+    "empty": "没有线路被收藏"
+  },
+  "fresh_rate": {
+    "time": {
+      "two": "2秒",
+      "five": "5秒",
+      "eight": "8秒"
+    }
+  },
+  "warn": {
+    "fresh_rate": "会严重严重发热以及降低续航!!!"
+  }
+}

@@ -2,6 +2,10 @@
 
 本项目是一个基于React的实时公交框架，旨在提供一个易于定制和扩展的平台，用于展示公共交通数据。
 
+<div style="font-size: 1.5rem;">
+  <a href="./README.md">English</a> | <a href="./README_ZH.md">中文</a>
+</div>
+
 ## 特性
 
 - 实时数据：该框架使用公共交通数据接口，提供最新的实时公交数据。
@@ -16,7 +20,7 @@ git clone https://github.com/Gavinin/Realtime-Bus-Framework.git
 ```
 2. 安装依赖
 ```shell
-cd Realtime-Bus-Framework
+cd Realtime-Bus-Framework/src
 npm install
 ```
 3. 运行项目
