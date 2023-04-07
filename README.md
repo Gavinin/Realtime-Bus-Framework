@@ -13,7 +13,7 @@ This project is a realtime bus framework based on React, designed to provide a c
 - Customizability: You can customize the styles of bus stops and maps to meet your needs.
 
 ## Example
-[Yantai Bus board](https://github.com/Gavinin/YantaiBus)
+[Yantai Bus board](http://ytbus.gavinin.space/)
 
 ## Requirements
 - Node.js
