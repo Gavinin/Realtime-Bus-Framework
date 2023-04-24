@@ -42,7 +42,7 @@ npm start
 
 1. 克隆本仓库
 ```shell
-git clone https://github.com/Gavinin/Realtime-Bus-Framework.git
+git clone git@github.com:Gavinin/RealtimeBusBoard.git
 ```
 2. 创建新分支
 ```shell
