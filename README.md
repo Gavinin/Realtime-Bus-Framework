@@ -22,7 +22,7 @@ This project is a realtime bus framework based on React, designed to provide a c
 
 1. Clone the repository
 ```shell
-git clone hhttps://github.com/Gavinin/Realtime-Bus-Framework.git
+git clone git@github.com:Gavinin/RealtimeBusBoard.git
 ```
 2. Install dependencies
 ```shell
